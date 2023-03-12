@@ -1,9 +1,9 @@
-package com.example.simplewidget.data.type;
+package frc.nfr.simplewidget.data.type;
 
 import edu.wpi.first.shuffleboard.api.data.ComplexDataType;
 import edu.wpi.first.shuffleboard.api.util.Maps;
 
-import com.example.simplewidget.data.Point2D;
+import frc.nfr.simplewidget.data.Point2D;
 
 import java.util.Map;
 import java.util.function.Function;

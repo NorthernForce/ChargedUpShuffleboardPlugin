@@ -1,4 +1,4 @@
-package com.example.simplewidget.data;
+package frc.nfr.simplewidget.data;
 
 import edu.wpi.first.shuffleboard.api.data.ComplexData;
 
